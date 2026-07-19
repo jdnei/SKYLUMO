@@ -1,5 +1,5 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
-# SKYLUMO Official Airport Address (Updated July 18, 2026)
+# SKYLUMO Official Airport Address (Updated July 19, 2026)
 
 Latest Address 01: [skylumo.cc](http://167.234.220.29/#/register?code=GhsWQcBf)。
 Official Entry Address 01: [skylumo.cc](https://skylumo.cc/)
