@@ -3,7 +3,7 @@
 
 # SKYLUMO 机场官方地址(2026年7月24日更新)
 SKYLUMO 机场官网地址</br>
-最新地址01：[skylumo.cc](http://167.234.220.29/#/register?code=GhsWQcBf)</br>
+最新地址01：[skylumo.cc](http://149.118.77.237/#/register?code=GhsWQcBf)</br>
 
 官方入口地址01：[skylumo.cc](https://skylumo.cc/)  
 ## 邀请码
