@@ -59,4 +59,5 @@ jobs:
 
       - name: Force Push to GitLab
         run: |
-          git push --force https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/jdnei/${{ github.event.repository.name }}.git HEAD:${GITHUB_REF_NAME}
+          git push --force https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/jdnei/SKYLUMO.git HEAD:${GITHUB_REF_NAME}
+         # git push --force https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/jdnei/${{ github.event.repository.name }}.git HEAD:${GITHUB_REF_NAME}
