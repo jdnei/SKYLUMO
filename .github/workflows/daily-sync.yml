@@ -56,10 +56,9 @@ jobs:
       - name: Force Push to Gitee
         run: |
           git push --force https://jdnei:${{ secrets.GITEE_TOKEN }}@gitee.com/${{ github.repository }}.git HEAD:${GITHUB_REF_NAME}
-
+ 
       - name: Force Push to GitLab
         env:
           TOKEN: ${{ secrets.GITLAB_TOKEN }}
         run: |
-          git -c http.extraHeader="Authorization: Bearer $TOKEN" \
-          push --force https://gitlab.com/jdnei/${{ github.event.repository.name }}.git HEAD:${GITHUB_REF_NAME}
+          git push --force https://oauth2:${TOKEN}@gitlab.com/jdnei/${{ github.event.repository.name }}.git HEAD:${GITHUB_REF_NAME}
