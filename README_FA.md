@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
- # آدرس رسمی SKYLUMO VPN (به‌روزرسانی در 5 اوت 2026)
+ # آدرس رسمی SKYLUMO VPN (به‌روزرسانی 6 اوت 2026)
 
 آدرس وب‌سایت رسمی SKYLUMO VPN</br>
 جدیدترین آدرس 01: [skylumo.cc](http://149.118.77.237/#/register?code=GhsWQcBf)</br>
