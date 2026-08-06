@@ -1,43 +1,69 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
-# SKYLUMO Official Airport Address (Updated August 5, 2026)
 
-Latest Address 01: [skylumo.cc](http://167.234.220.29/#/register?code=GhsWQcBf)。
-Official Entry Address 01: [skylumo.cc](https://skylumo.cc/)
+# SKYLUMO VPN Official Address (Updated August 5, 2026)
+
+SKYLUMO VPN Official Website Address</br>
+Latest Address 01: [skylumo.cc](http://149.118.77.237/#/register?code=GhsWQcBf)</br>
+Official Entry Address: [skylumo.cc](https://skylumo.cc/)</br>
+
+Recommended VPN Services and Node Sharing for 2026: https://github.com/jdnei/JiChangTuiJian</br>
+
+## Telegram VPN Deals Community #AD
+
+[VPN Giveaway Group](https://331024.de/archives/choujiang)｜[VPN Chat Group](https://331024.de/archives/choujiang)｜[VPN Trial Group](https://331024.de/archives/choujiang)</br>
+
+https://331024.de/archives/choujiang
 
 ## Invitation Code
 
-Register with the invitation code to subscribe to the Basic Plan for 1 year at ¥9.9
+`Register with the invitation code to subscribe to the Basic Plan for 1 year at ¥9.9 (this promotion may be canceled by the provider at any time)`
 
 ```bash
 GhsWQcBf
 ```
 
+![image](https://github.com/jdnei/SKYLUMO/blob/main/skylumo/QQ20260806-144955.jpg?raw=ture)
+
 ## Introduction
 
-SKYLUMO is a premium proxy/VPN airport service focused on providing a high-speed and stable bypassing experience. It uses industry-leading transmission protocols such as Trojan/Vless, with all nodes deployed on high-speed premium dedicated lines. Its goal is to provide users with low-latency, high-bandwidth cross-border network acceleration services. Whether for daily web browsing, foreign trade work, academic research, or demanding use cases such as 4K/8K video streaming and cross-region gaming, SKYLUMO can provide reliable support.
+SKYLUMO is a premium VPN service focused on providing a high-speed and stable network access experience. It uses industry-leading transmission protocols (such as Trojan/Vless) and deploys high-quality high-speed dedicated lines across all nodes, aiming to provide users with low-latency, high-bandwidth cross-border network acceleration. Whether for everyday web browsing, international trade work, academic research, or network-intensive use cases such as 4K/8K video playback and cross-region gaming, SKYLUMO provides strong support.
 
 ## Advantages
 
-Dedicated line transmission, ultra-low latency: Avoids public network congestion. All lines use premium IEPL/IPLC dedicated lines, ensuring that webpages can still open instantly and connections remain stable even during special periods or peak network hours.
-Perfect streaming and AI unlocking: Fully supports unlocking mainstream streaming platforms such as Netflix, Disney+, HBO, Hulu, and also provides native IP unlocking for popular AI tools such as ChatGPT, Claude, and Gemini.
-Multi-platform client compatibility: Fully compatible with mainstream clients such as Clash (Meta/Nyapasu), Shadowrocket, v2rayN, Sing-Box, Surge, and more. Supports one-click subscription import, making it easy to get started.
-Comprehensive privacy protection: Strictly enforces a zero-log policy. All traffic is protected with high-level encryption to ensure the security of your personal data and browsing privacy.
-Premium after-sales service: Provides 7x24 ticket-based technical support, with fast responses to help users solve various network issues encountered during configuration or use.
+Dedicated-Line Transmission, Ultra-Low Latency: Avoids public-network congestion by using high-quality IEPL/IPLC dedicated lines across the entire network, ensuring fast webpage loading and stable connections even during special periods or network peak hours.
+Full Streaming & AI Unlocking: Fully supports unlocking major streaming platforms including Netflix, Disney+, HBO, and Hulu, while providing native-IP unlocking for mainstream AI tools such as ChatGPT, Claude, and Gemini.
+Multi-Platform Client Compatibility: Fully compatible with mainstream clients including Clash (Meta/Nyapasu), Shadowrocket (小火箭), v2rayN, Sing-Box, Surge, and others, with one-click subscription import for easy setup.
+Comprehensive Privacy Protection: Strictly follows a zero-log policy, with all traffic protected by high-level encryption to safeguard personal data and browsing privacy.
+High-Quality After-Sales Support: Provides 7x24-hour ticket-based technical support with fast responses to configuration and usage-related network issues.
 
 ## Plans
 
-### 🕒 Cycle-Based Billing Plans (Automatically Reset Monthly)
+### 🕒 Recurring Plans (Automatically Reset Monthly)
 
-| Plan Name         | Price          | Traffic/Month | Bandwidth Guarantee | Client Limit | Number of Lines | Features and Annual Discount                                                                                        |
-| ----------------- | -------------- | ------------- | ------------------- | ------------ | --------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **Basic Plan**    | ¥6.99 / month  | 50 GB         | 20 Mbps             | 1 device     | Global 3+       | 💡 **Invited users only need ¥9.9/year for annual payment** (no customer service, tutorial self-reference required) |
-| **Advanced Plan** | ¥19.99 / month | 100 GB        | 50 Mbps             | 3 devices    | Global 10+      | 💡 **Annual payment only ¥49.9/year** (online customer support available)                                           |
-| **Flagship Plan** | ¥29.99 / month | 999 GB        | 100 Mbps            | 10 devices   | Global 30+      | 💡 **Annual payment only ¥99.9/year** (full customer support guidance available)                                    |
+| Plan Name         | Price          | Traffic/Month | Guaranteed Bandwidth | Client Limit | Number of Routes | Features & Annual Discount                                                                                          |
+| ----------------- | -------------- | ------------- | -------------------- | ------------ | ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Basic Plan**    | ¥6.99 / Month  | 50 GB         | 20 Mbps              | 1 device     | Global 3+        | 💡 **Annual plan for invited users only ¥9.9/year** (no customer support, users must refer to tutorials themselves) |
+| **Advanced Plan** | ¥19.99 / Month | 100 GB        | 50 Mbps              | 3 devices    | Global 10+       | 💡 **Annual plan only ¥49.9/year** (online customer support available)                                              |
+| **Flagship Plan** | ¥29.99 / Month | 999 GB        | 100 Mbps             | 10 devices   | Global 30+       | 💡 **Annual plan only ¥99.9/year** (full customer support guidance available)                                       |
 
-### ⏳ Unlimited-Time / Pay-As-You-Go Plans (Valid Until Used Up)
+### ⏳ Non-Expiring/Pay-As-You-Go Plans (Valid Until Traffic Is Used Up)
 
-| Plan Name                                         | Price   | Total Traffic | Bandwidth Guarantee | Client Limit | Number of Lines                               | Discount Policy / Service                                                                  |
-| ------------------------------------------------- | ------- | ------------- | ------------------- | ------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Classic Legacy Plan - Limited-Time Half Price** | ¥399.99 | 10,000,000 GB | 1000 Mbps           | 100 devices  | Global 300+ (including clean residential IPs) | 🎁 **Half-price coupon `lN0cKN1L**` available + Google AI PRO annual subscription included |
-| **Basic Unlimited-Time Traffic**                  | ¥29.90  | 50 GB         | 20 Mbps             | 1 device     | Global 3+                                     | ❌ No discounts available, no assistance or guidance provided                               |
-| **Flagship Unlimited-Time Traffic**               | ¥99.99  | 1000 GB       | 100 Mbps            | 10 devices   | Global 30+                                    | ❌ No discounts available, online customer support available                                |
+| Plan Name                                       | Price   | Total Traffic | Guaranteed Bandwidth | Client Limit | Number of Routes                                    | Discount Policy / Service                                                                  |
+| ----------------------------------------------- | ------- | ------------- | -------------------- | ------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Classic Legacy Plan-Limited-Time Half Price** | ¥399.99 | 10,000,000 GB | 1000 Mbps            | 100 devices  | Global 300+ (including clean residential broadband) | 🎁 **Half-price coupon available `lN0cKN1L**` + includes Google AI PRO annual subscription |
+| **Basic Non-Expiring Traffic**                  | ¥29.90  | 50 GB         | 20 Mbps              | 1 device     | Global 3+                                           | ❌ No discount currently, no assistance or guidance provided                                |
+| **Flagship Non-Expiring Traffic**               | ¥99.99  | 1000 GB       | 100 Mbps             | 10 devices   | Global 30+                                          | ❌ No discount currently, online customer support available                                 |
+
+## 📊 Performance Tests and Analysis
+
+#### 1. Peak-Hour Speed Test Performance
+
+![image](https://github.com/jdnei/SKYLUMO/blob/main/skylumo/photo_2026-08-06_14-54-18.jpg?raw=ture)
+
+#### 2. Streaming Unlock Report
+
+![image](https://github.com/jdnei/SKYLUMO/blob/main/skylumo/MiaoKo-149.%20.%20.237-4258-test.png?raw=ture)
+
+#### 3. Exit Node and Entry Route Analysis
+
+![image](https://github.com/jdnei/SKYLUMO/blob/main/skylumo/photo_2026-08-06_14-54-18.jpg?raw=ture)
