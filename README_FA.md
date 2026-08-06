@@ -1,4 +1,5 @@
- 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+ 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
+
  # آدرس رسمی SKYLUMO Airport (به‌روزرسانی 5 اوت 2026)
 
 آخرین آدرس 01: [skylumo.cc](http://167.234.220.29/#/register?code=GhsWQcBf)
