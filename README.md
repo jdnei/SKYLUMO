@@ -4,8 +4,14 @@
 # SKYLUMO 机场官方地址(2026年8月5日更新)
 SKYLUMO 机场官网地址</br>
 最新地址01：[skylumo.cc](http://149.118.77.237/#/register?code=GhsWQcBf)</br>
+官方入口地址：[skylumo.cc](https://skylumo.cc/)</br>
 
-官方入口地址01：[skylumo.cc](https://skylumo.cc/)  
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+
 ## 邀请码
 `用邀请码注册可9.9元订阅1年基础套餐（此活动官方随时取消）`
 ```bash
