@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный адрес SKYLUMO VPN (обновлено 9 августа 2026)
+# Официальный адрес SKYLUMO VPN (обновлено 10 августа 2026)
 
 Адрес официального сайта SKYLUMO VPN</br>
 Новый адрес 01: [skylumo.cc](http://149.118.77.237/#/register?code=GhsWQcBf)</br>
