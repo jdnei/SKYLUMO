@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# SKYLUMO 机场官方地址(2026年8月20日更新)
+# SKYLUMO 机场官方地址(2026年8月21日更新)
 SKYLUMO 机场官网地址</br>
 最新地址01：[skylumo.cc](https://to.iix.im/sky02)</br>
 官方入口地址：[skylumo.cc](https://to.iix.im/sky01)</br>
