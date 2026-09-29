@@ -9,7 +9,8 @@ SKYLUMO 机场官网地址</br>
 最新地址01：[skylumo](https://github.com/jdnei/kitty)</br>
 官方入口地址：[skylumo](https://github.com/jdnei/kitty)</br>
 
-## 机场不给提现，工单不受理，客服无回应！请去[KittyNetwork](https://github.com/jdnei/kitty)
+## 机场不给提现，工单不受理，客服（老板）骂人！删除聊天记录！</br>
+### 你可以去买24元/年的：[KittyNetwork](https://github.com/jdnei/kitty)</br>
 ![image](https://github.com/jdnei/SKYLUMO/blob/main/skylumo/87154040589sosuo.jpg?raw=ture)</br>
 ![image](https://github.com/jdnei/SKYLUMO/blob/main/skylumo/89718975liaotian.jpg?raw=ture)</br>
 ![image](?raw=ture)</br>
