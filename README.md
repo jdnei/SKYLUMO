@@ -3,8 +3,10 @@
 
 # SKYLUMO 机场官方地址(2026年9月28日更新)
 SKYLUMO 机场官网地址</br>
-最新地址01：[skylumo.cc](https://to.iix.im/sky03)</br>
-官方入口地址：[skylumo.cc](https://to.iix.im/sky01)</br>
+最新地址01：[skylumo](https://github.com/jdnei/kitty)</br>
+官方入口地址：[skylumo](https://github.com/jdnei/kitty)</br>
+
+机场不给提现，工单不受理，客服无回应！请去[KittyNetwork](https://github.com/jdnei/kitty)
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
