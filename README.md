@@ -10,7 +10,9 @@ SKYLUMO 机场官网地址</br>
 官方入口地址：[skylumo](https://github.com/jdnei/kitty)</br>
 
 ## 机场不给提现，工单不受理，客服无回应！请去[KittyNetwork](https://github.com/jdnei/kitty)
-
+![image](?raw=ture)</br>
+![image](?raw=ture)</br>
+![image](?raw=ture)</br>
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
@@ -46,8 +48,8 @@ SKYLUMO 是一款专注于高速、稳定翻墙体验的优质翻墙机场。采
 | **旗舰不限时流量** | ¥99.99 | 1000 GB | 100 Mbps | 10 台 | 全球 30+ | ❌ 暂无优惠，支持客服在线解答 |
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](https://github.com/jdnei/SKYLUMO/blob/main/skylumo/photo_2026-08-06_14-54-18.jpg?raw=ture)  
+![image](?raw=ture)</br>
 #### 2.流媒体解锁报告  
-![image](https://github.com/jdnei/SKYLUMO/blob/main/skylumo/MiaoKo-149.%20.%20.237-4258-test.png?raw=ture)    
+![image](?raw=ture)
 #### 3.落地入口分析  
-![image](https://github.com/jdnei/SKYLUMO/blob/main/skylumo/photo_2026-08-06_14-54-18.jpg?raw=ture)
+![image](?raw=ture)
