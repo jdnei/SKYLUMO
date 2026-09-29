@@ -4,7 +4,7 @@
 # SKYLUMO 机场官方地址(2026年9月29日更新)
 SKYLUMO 机场官网地址</br>
 
-## 避雷！避雷！
+## 避雷！避雷！有账户的赶快改密码！！
 
 最新地址01：[skylumo](https://github.com/jdnei/kitty)</br>
 官方入口地址：[skylumo](https://github.com/jdnei/kitty)</br>
