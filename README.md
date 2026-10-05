@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# SKYLUMO 机场官方地址(2026年10月4日更新)
+# SKYLUMO 机场官方地址(2026年10月5日更新)
 SKYLUMO 机场官网地址</br>
 
 ## 避雷！避雷！有账户的赶快改密码！！
